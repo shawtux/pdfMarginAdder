@@ -1,0 +1,1 @@
+pipenv run pyinstaller --onefile --windowed --name PdfMarginAdder mainwindow.py
